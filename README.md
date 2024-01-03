@@ -1,3 +1,3 @@
 # Portfolio
 
-LINK: https://sandip-portfoliojs.netlify.app/
+LINK: https://https://saicharanmekala.netlify.app/
